@@ -1,6 +1,6 @@
 # 🐶 SSH Tamagotchi
 
-> This game was developed as part of the [508.dev](https://508.dev/) Jankathon on the 15th of July, 2025
+> This game was developed as part of the [508.dev](https://508.dev/) Jankathon on the 15th of July, 2025, where participants had 1 hour to build the jankiest _thing_
 
 Connect over SSH, compete with others to keep your pet alive!
 
