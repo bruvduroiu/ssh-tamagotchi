@@ -1,5 +1,7 @@
 # 🐶 SSH Tamagotchi
 
+> This game was developed as part of the [508.dev](https://508.dev/) Jankathon on the 15th of July, 2025
+
 Connect over SSH, compete with others to keep your pet alive!
 
 Built with the amazing [Wish](https://github.com/charmbracelet/wish) and [Bubbletea](https://github.com/charmbracelet/bubbletea) libraries by Charm Bracelet.
